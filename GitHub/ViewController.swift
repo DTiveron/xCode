@@ -1,9 +1,13 @@
-//
-//  ViewController.swift
-//  GitHub
-//
-//  Created by Tiveron, Derrick on 7/26/16.
-//  Copyright © 2016 Tiveron, Derrick. All rights reserved.
+//WHen you create a new project check the box that says "create local repositiory
+//Log onto GitHub
+//Create new repository
+//Copy/Paste the link
+//Back in xCode go to Source Control -> GitHub Master -> Configure
+//remote, add remote, paste address
+
+//To send online go Source Control -> Push
+//TO update the entire project have the student commit the project
+//Then you can push the commited changes again
 //
 
 import UIKit
